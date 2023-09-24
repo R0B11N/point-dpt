@@ -2,7 +2,7 @@
 The **only** documented instance of an open-source pointer software that utilizes the position of the user's index finger to ascertain the specific location on the screen they are pointing towards, without requiring external depth cameras or sensors -- showed off with a program which focuses a pointed finger for individuals with tremor's in hands to be-able to reliably point at objects
 
 
-## How are Pipeline Works
+## How our Pipeline Works
 ### Tracking the Finger
 By utilizing the Mediapipe Python package, we can track the movement of a hand and obtain the following data:
 ![image](https://user-images.githubusercontent.com/72413722/236637614-cba2e540-579e-45f0-a3cf-101ff3a53bf0.png)
